@@ -19,7 +19,6 @@ const resolvers = {
             return {
                 id: '123456',
                 titulo: null,
-                titulo: 'Effective Java',
                 genero: 'Técnico',
                 edicao: 3,
                 preco: 43.9
